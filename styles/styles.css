@@ -17,4 +17,7 @@ header nav {
 header nav .linha {
   border-top: 1px solid black;
   width: 80%;
+}
+header nav ul {
+  display: flex;
 }/*# sourceMappingURL=styles.css.map */
