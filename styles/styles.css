@@ -21,4 +21,7 @@ header nav .linha {
 header nav ul {
   display: flex;
   gap: 2rem;
+}
+header nav ul li {
+  list-style: none;
 }/*# sourceMappingURL=styles.css.map */
