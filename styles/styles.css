@@ -24,4 +24,7 @@ header nav ul {
 }
 header nav ul li {
   list-style: none;
+}
+header nav ul a {
+  text-decoration: none;
 }/*# sourceMappingURL=styles.css.map */
