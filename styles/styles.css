@@ -11,4 +11,5 @@ header {
 header nav {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }/*# sourceMappingURL=styles.css.map */
