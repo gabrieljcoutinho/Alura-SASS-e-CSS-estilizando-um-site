@@ -20,4 +20,5 @@ header nav .linha {
 }
 header nav ul {
   display: flex;
+  gap: 2rem;
 }/*# sourceMappingURL=styles.css.map */
