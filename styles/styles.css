@@ -7,4 +7,8 @@ body {
 header {
   background: linear-gradient(180deg, #e8f5c8, #ffffff 96.87%);
   padding: 2rem;
+}
+header nav {
+  display: flex;
+  flex-direction: column;
 }/*# sourceMappingURL=styles.css.map */
