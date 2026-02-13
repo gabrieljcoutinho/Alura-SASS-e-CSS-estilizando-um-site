@@ -2,4 +2,8 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+header {
+  background: linear-gradient(180deg, #e8f5c8, #ffffff 96.87%);
 }/*# sourceMappingURL=styles.css.map */
